@@ -6,9 +6,9 @@ Web Security - Cyber Security
 
 I have been interested in Cyber Security and Web Security for 4 years. I am also interested in the Network.
 
-* 🌍  I'm based in Turkey
-* ✉️  You can contact me at [auvyfyus@gmail.com](mailto:auvyfyus@gmail.com)
-* 🧠  I'm learning Network Security
+* 🌍  I'm based in Turkey
+* ✉️  You can contact me at [auvyfyus@gmail.com](mailto:auvyfyus@gmail.com)
+* 🧠  I'm learning Network Security
 
 <a href="https://www.github.com/XSBrave" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/XSBrave?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
