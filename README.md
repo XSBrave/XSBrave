@@ -32,5 +32,5 @@ src="https://img.shields.io/github/followers/XSBrave?logo=github&style=for-the-b
 
 <a href="http://www.github.com/XSBrave"><img src="https://github-readme-stats.vercel.app/api?username=XSBrave&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="XSBrave's GitHub stats" /></a>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/YOUR_USERNAME/XSBrave/blob/output/github-contribution-grid-snake.gif)
 
