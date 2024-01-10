@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=XSBrave&color=blue)
 <div align="center">
  <a href="https://github.com/XSBrave">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Çağatay+Akkaş+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+                         <br><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=%E2%9C%A8+XSBrave+%E2%9C%A8;%F0%9F%9A%80+Web+Security+%F0%9F%9A%80;%F0%9F%94%A5Cyber+Security+%F0%9F%94%A5" alt="Typing SVG" />
  </a>
 </div>
 
