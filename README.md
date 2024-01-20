@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Network Security**
 
-- 💬 Ask me about **Cyber Security**
+- 💬 Ask me about **Web Security**
 
 - 📫 How to reach me **auvyfyus@gmail.com**
 
