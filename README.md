@@ -13,7 +13,7 @@
 
 <h3 align="left">&nbsp; A passionate Cyber Security developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Network Security**
+- 🔭 I’m currently working on **Web Security**
 
 - 💬 Ask me about **Web Security**
 
