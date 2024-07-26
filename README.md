@@ -1,6 +1,3 @@
-![MasterHead](https://share.creavite.co/FwNw61B1D9Ms6Y8W.gif)
-
-
 ![](https://komarev.com/ghpvc/?username=XSBrave&color=blue)
 <div align="center">
  <a href="https://github.com/XSBrave">
