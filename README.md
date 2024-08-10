@@ -8,16 +8,12 @@
 
 <h3 align="left">&nbsp; A passionate Cyber Security developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Web Security**
-
-- 💬 Ask me about **Web Security**
-
+- 🔭 I’m currently working on **Backend**
 - 📫 How to reach me **auvyfyus@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://www.youtube.com/c/aronshire](https://www.youtube.com/@FLscripts)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Flscript"height="30" width="40" /></a>
+<h1>discord.gg/flscripts</h1>
 </p>
 
 
