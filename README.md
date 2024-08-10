@@ -5,8 +5,6 @@
  </a>
 </div>
 
-<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
-
 
 <h3 align="left">&nbsp; A passionate Cyber Security developer from Türkiye</h3>
 
@@ -16,7 +14,6 @@
 
 - 📫 How to reach me **auvyfyus@gmail.com**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/XSBrave?theme=unicorn)](https://leetcode.com/XSBrave/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
