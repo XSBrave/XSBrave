@@ -13,7 +13,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<h1>discord.gg/flscripts</h1>
+<h1>https://discord.gg/flscripts</h1>
 </p>
 
 
