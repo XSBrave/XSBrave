@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Backend**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact:</h3>
 <h1>https://discord.gg/coren</h1>
 </p>
 
