@@ -6,11 +6,7 @@
 </div>
 
 
-<h3 align="left">&nbsp; A passionate Cyber Security developer from Türkiye</h3>
-
 - 🔭 I’m currently working on **Backend**
-- 📫 How to reach me **auvyfyus@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <h1>https://discord.gg/coren</h1>
