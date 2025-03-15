@@ -1,14 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=XSBrave&color=blue)
 <div align="center">
  <a href="https://github.com/XSBrave">
-                         <br><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=%E2%9C%A8+XSBrave+%E2%9C%A8;%F0%9F%9A%80+Web+Security+%F0%9F%9A%80;%F0%9F%94%A5Cyber+Security+%F0%9F%94%A5" alt="Typing SVG" />
  </a>
 </div>
 
 
-- 🔭 I’m currently working on **Backend**
-
-<h3 align="left">Contact:</h3>
 </p>
 
 
